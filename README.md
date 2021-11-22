@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Griive
+- 👀 I’m interested in python
+- 🌱 I’m currently learning golang
+- 💞️ I’m looking to collaborate on github
+- 📫 How to reach me igrishkin77@icloud.com
